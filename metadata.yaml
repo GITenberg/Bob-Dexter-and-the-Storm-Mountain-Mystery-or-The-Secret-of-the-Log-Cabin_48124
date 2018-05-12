@@ -1,10 +1,16 @@
 _repo: Bob-Dexter-and-the-Storm-Mountain-Mystery-or-The-Secret-of-the-Log-Cabin_48124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48124-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Willard F.
     gutenberg_agent_id: '2092'
     url: http://www.gutenberg.org/2009/agents/2092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48124#Bob-Dexter-and-the-Storm-Mountain-Mystery-or-The-Secret-of-the-Log-Cabin
 gutenberg_issued: '2015-01-31'
 gutenberg_type: Text
 identifiers:
